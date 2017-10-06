@@ -1,15 +1,17 @@
-# Asociación española contra el cancer 
-## Aplicación  móvil
-> El objetivo fundamental de este proyecto reside en el **desarrollo de una aplicación móvil** que ponga en contacto a *beneficiarios* (enfermos y familiares) con *voluntarios* de la Asociación.
+# ¿En qué consiste este proyecto? 
 
-**Bravent**, **Microsoft** y la propia **AECC**, creen que el desarrollo de esta aplicación ayudará a que la Asociación pueda llegar a más personas, sobre todo personas jóvenes, y esto le permitirá aumentar su visibilidad, su número de socios y número de voluntarios. 
+## Desarollo de aplicación  móvil
+> El objetivo fundamental de este proyecto reside en el **desarrollo** de la **primera app colaborativa** que ponga en contacto a *beneficiarios* (enfermos y familiares) de cáncer con *voluntarios* y *profesionales* de la **AECC
 
-Esta aplicación será la primera que ponga en contacto a *beneficiarios* con *voluntarios* altamente formados por la AECC. 
+**Bravent**, **Microsoft** están ayudando a la **Asociación Española contra el cáncer** a desarrollar esta app que permitirá a miles de personas a pasar por los duros momentos de la enfermedad y hablar con *voluntarios profesionales* en cualquier momento y lugar. 
 
+Si tienes conocimientos de **Xamarin** y **Patrones MVC**, te necesitamos.  
 
-### Actualmente la aplicación está en un estado inicial de desarrollo, por lo que aún no hay una versión estable.
+Se ha comenzado el desarrollo en **Xamarin** y se ha publicado como proyecto **OpenSource** para que todos podáis poner vuestro granito de arena en este bonito proyecto. De esta manera, la app podrá estar disponible en las tres plataformas del mercado (iOS, Android y Windows Phone). 
+
+## Actualmente la aplicación está en un estado inicial de desarrollo, por lo que aún no hay una versión estable.
 - Puedes seguir nuestro progreso en la rama [develop](https://github.com/BraventMobile/AeccApp/tree/develop).
-- También puedes unirte a nosotros y colaborar. Para ello, simplemente rellena el [siguiente formulario]() para que te podamos incluir como colaborador.
+- ¡Únete a nosotros y colabora! Para ello, simplemente rellena el [siguiente formulario]() para que te podamos incluir como colaborador.
 
-¡¡¡Toda ayuda es bienvenida!!!
+¡¡¡Te necesitamos!!!
 
